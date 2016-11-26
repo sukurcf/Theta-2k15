@@ -1,0 +1,451 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-sdk
+ADDED from AndroidManifest.xml:6:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:8:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:7:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+application
+ADDED from AndroidManifest.xml:9:5
+	android:label
+		ADDED from AndroidManifest.xml:12:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:10:9
+	android:icon
+		ADDED from AndroidManifest.xml:11:9
+	android:theme
+		ADDED from AndroidManifest.xml:13:9
+activity#com.exam.theta2k15.MainActivity
+ADDED from AndroidManifest.xml:14:9
+	android:label
+		ADDED from AndroidManifest.xml:16:13
+	android:name
+		ADDED from AndroidManifest.xml:15:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:17:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:18:17
+	android:name
+		ADDED from AndroidManifest.xml:18:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:20:17
+	android:name
+		ADDED from AndroidManifest.xml:20:27
+activity#com.exam.theta2k15.Second
+ADDED from AndroidManifest.xml:24:9
+	android:label
+		ADDED from AndroidManifest.xml:26:13
+	android:name
+		ADDED from AndroidManifest.xml:25:13
+intent-filter#android.intent.action.com.exam.theta2k15.Second+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:27:13
+action#android.intent.action.com.exam.theta2k15.Second
+ADDED from AndroidManifest.xml:28:17
+	android:name
+		ADDED from AndroidManifest.xml:28:25
+category#android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:30:17
+	android:name
+		ADDED from AndroidManifest.xml:30:27
+activity#com.exam.theta2k15.Informatica
+ADDED from AndroidManifest.xml:34:9
+	android:label
+		ADDED from AndroidManifest.xml:36:13
+	android:name
+		ADDED from AndroidManifest.xml:35:13
+intent-filter#android.intent.action.com.exam.theta2k15.Informatica+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:37:13
+action#android.intent.action.com.exam.theta2k15.Informatica
+ADDED from AndroidManifest.xml:38:17
+	android:name
+		ADDED from AndroidManifest.xml:38:25
+activity#com.exam.theta2k15.Informaticaconus
+ADDED from AndroidManifest.xml:43:9
+	android:label
+		ADDED from AndroidManifest.xml:45:13
+	android:name
+		ADDED from AndroidManifest.xml:44:13
+intent-filter#android.intent.action.com.exam.theta2k15.Informaticaconus+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:46:13
+action#android.intent.action.com.exam.theta2k15.Informaticaconus
+ADDED from AndroidManifest.xml:47:17
+	android:name
+		ADDED from AndroidManifest.xml:47:25
+activity#com.exam.theta2k15.Electronica
+ADDED from AndroidManifest.xml:53:17
+	android:label
+		ADDED from AndroidManifest.xml:55:13
+	android:name
+		ADDED from AndroidManifest.xml:54:13
+intent-filter#android.intent.action.com.exam.theta2k15.Electronica+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:56:13
+action#android.intent.action.com.exam.theta2k15.Electronica
+ADDED from AndroidManifest.xml:57:17
+	android:name
+		ADDED from AndroidManifest.xml:57:25
+activity#com.exam.theta2k15.Robotics
+ADDED from AndroidManifest.xml:63:3
+	android:label
+		ADDED from AndroidManifest.xml:65:13
+	android:name
+		ADDED from AndroidManifest.xml:64:13
+intent-filter#android.intent.action.com.exam.theta2k15.Robotics+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:66:13
+action#android.intent.action.com.exam.theta2k15.Robotics
+ADDED from AndroidManifest.xml:67:17
+	android:name
+		ADDED from AndroidManifest.xml:67:25
+activity#com.exam.theta2k15.Optica
+ADDED from AndroidManifest.xml:73:3
+	android:label
+		ADDED from AndroidManifest.xml:75:13
+	android:name
+		ADDED from AndroidManifest.xml:74:13
+intent-filter#android.intent.action.com.exam.theta2k15.Optica+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:76:13
+action#android.intent.action.com.exam.theta2k15.Optica
+ADDED from AndroidManifest.xml:77:17
+	android:name
+		ADDED from AndroidManifest.xml:77:25
+activity#com.exam.theta2k15.Emulsion
+ADDED from AndroidManifest.xml:84:9
+	android:label
+		ADDED from AndroidManifest.xml:86:13
+	android:name
+		ADDED from AndroidManifest.xml:85:13
+intent-filter#android.intent.action.com.exam.theta2k15.Emulsion+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:87:13
+action#android.intent.action.com.exam.theta2k15.Emulsion
+ADDED from AndroidManifest.xml:88:17
+	android:name
+		ADDED from AndroidManifest.xml:88:25
+activity#com.exam.theta2k15.Biogenesis
+ADDED from AndroidManifest.xml:94:9
+	android:label
+		ADDED from AndroidManifest.xml:96:13
+	android:name
+		ADDED from AndroidManifest.xml:95:13
+intent-filter#android.intent.action.com.exam.theta2k15.Biogenesis+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:97:13
+action#android.intent.action.com.exam.theta2k15.Biogenesis
+ADDED from AndroidManifest.xml:98:17
+	android:name
+		ADDED from AndroidManifest.xml:98:25
+activity#com.exam.theta2k15.Equilibria
+ADDED from AndroidManifest.xml:105:9
+	android:label
+		ADDED from AndroidManifest.xml:107:13
+	android:name
+		ADDED from AndroidManifest.xml:106:13
+intent-filter#android.intent.action.com.exam.theta2k15.Equilibria+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:108:13
+action#android.intent.action.com.exam.theta2k15.Equilibria
+ADDED from AndroidManifest.xml:109:17
+	android:name
+		ADDED from AndroidManifest.xml:109:25
+activity#com.exam.theta2k15.Strategia
+ADDED from AndroidManifest.xml:115:9
+	android:label
+		ADDED from AndroidManifest.xml:117:13
+	android:name
+		ADDED from AndroidManifest.xml:116:13
+intent-filter#android.intent.action.com.exam.theta2k15.Strategia+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:118:13
+action#android.intent.action.com.exam.theta2k15.Strategia
+ADDED from AndroidManifest.xml:119:17
+	android:name
+		ADDED from AndroidManifest.xml:119:25
+activity#com.exam.theta2k15.Mathematica
+ADDED from AndroidManifest.xml:125:9
+	android:label
+		ADDED from AndroidManifest.xml:127:13
+	android:name
+		ADDED from AndroidManifest.xml:126:13
+intent-filter#android.intent.action.com.exam.theta2k15.Mathematica+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:128:13
+action#android.intent.action.com.exam.theta2k15.Mathematica
+ADDED from AndroidManifest.xml:129:17
+	android:name
+		ADDED from AndroidManifest.xml:129:25
+activity#com.exam.theta2k15.Pabbajja
+ADDED from AndroidManifest.xml:135:3
+	android:label
+		ADDED from AndroidManifest.xml:137:13
+	android:name
+		ADDED from AndroidManifest.xml:136:13
+intent-filter#android.intent.action.com.exam.theta2k15.Pabbajja+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:138:13
+action#android.intent.action.com.exam.theta2k15.Pabbajja
+ADDED from AndroidManifest.xml:139:17
+	android:name
+		ADDED from AndroidManifest.xml:139:25
+activity#com.exam.theta2k15.Workshops
+ADDED from AndroidManifest.xml:145:3
+	android:label
+		ADDED from AndroidManifest.xml:147:13
+	android:name
+		ADDED from AndroidManifest.xml:146:13
+intent-filter#android.intent.action.com.exam.theta2k15.Workshops+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:148:13
+action#android.intent.action.com.exam.theta2k15.Workshops
+ADDED from AndroidManifest.xml:149:17
+	android:name
+		ADDED from AndroidManifest.xml:149:25
+activity#com.exam.theta2k15.Uiux
+ADDED from AndroidManifest.xml:155:3
+	android:label
+		ADDED from AndroidManifest.xml:157:13
+	android:name
+		ADDED from AndroidManifest.xml:156:13
+intent-filter#android.intent.action.com.exam.theta2k15.Uiux+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:158:13
+action#android.intent.action.com.exam.theta2k15.Uiux
+ADDED from AndroidManifest.xml:159:17
+	android:name
+		ADDED from AndroidManifest.xml:159:25
+activity#com.exam.theta2k15.Spvs
+ADDED from AndroidManifest.xml:165:3
+	android:label
+		ADDED from AndroidManifest.xml:167:13
+	android:name
+		ADDED from AndroidManifest.xml:166:13
+intent-filter#android.intent.action.com.exam.theta2k15.spvs+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:168:13
+action#android.intent.action.com.exam.theta2k15.spvs
+ADDED from AndroidManifest.xml:169:17
+	android:name
+		ADDED from AndroidManifest.xml:169:25
+activity#com.exam.theta2k15.CandyTronics
+ADDED from AndroidManifest.xml:174:9
+	android:label
+		ADDED from AndroidManifest.xml:176:13
+	android:name
+		ADDED from AndroidManifest.xml:175:13
+intent-filter#android.intent.action.com.exam.theta2k15.candytronics+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:177:13
+action#android.intent.action.com.exam.theta2k15.candytronics
+ADDED from AndroidManifest.xml:178:17
+	android:name
+		ADDED from AndroidManifest.xml:178:25
+activity#com.exam.theta2k15.CrazyTronics
+ADDED from AndroidManifest.xml:183:9
+	android:label
+		ADDED from AndroidManifest.xml:185:13
+	android:name
+		ADDED from AndroidManifest.xml:184:13
+intent-filter#android.intent.action.com.exam.theta2k15.crazytronics+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:186:13
+action#android.intent.action.com.exam.theta2k15.crazytronics
+ADDED from AndroidManifest.xml:187:17
+	android:name
+		ADDED from AndroidManifest.xml:187:25
+activity#com.exam.theta2k15.Contactus
+ADDED from AndroidManifest.xml:193:9
+	android:label
+		ADDED from AndroidManifest.xml:195:13
+	android:name
+		ADDED from AndroidManifest.xml:194:13
+intent-filter#android.intent.action.com.exam.theta2k15.contactus+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:196:13
+action#android.intent.action.com.exam.theta2k15.contactus
+ADDED from AndroidManifest.xml:197:17
+	android:name
+		ADDED from AndroidManifest.xml:197:25
+activity#com.exam.theta2k15.Assmat
+ADDED from AndroidManifest.xml:202:9
+	android:label
+		ADDED from AndroidManifest.xml:204:13
+	android:name
+		ADDED from AndroidManifest.xml:203:13
+intent-filter#android.intent.action.com.exam.theta2k15.assmat+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:205:13
+action#android.intent.action.com.exam.theta2k15.assmat
+ADDED from AndroidManifest.xml:206:17
+	android:name
+		ADDED from AndroidManifest.xml:206:25
+activity#com.exam.theta2k15.Chaele
+ADDED from AndroidManifest.xml:211:9
+	android:label
+		ADDED from AndroidManifest.xml:213:13
+	android:name
+		ADDED from AndroidManifest.xml:212:13
+intent-filter#android.intent.action.com.exam.theta2k15.chaele+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:214:13
+action#android.intent.action.com.exam.theta2k15.chaele
+ADDED from AndroidManifest.xml:215:17
+	android:name
+		ADDED from AndroidManifest.xml:215:25
+activity#com.exam.theta2k15.Eletes
+ADDED from AndroidManifest.xml:220:9
+	android:label
+		ADDED from AndroidManifest.xml:222:13
+	android:name
+		ADDED from AndroidManifest.xml:221:13
+intent-filter#android.intent.action.com.exam.theta2k15.eletes+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:223:13
+action#android.intent.action.com.exam.theta2k15.eletes
+ADDED from AndroidManifest.xml:224:17
+	android:name
+		ADDED from AndroidManifest.xml:224:25
+activity#com.exam.theta2k15.Etl
+ADDED from AndroidManifest.xml:230:9
+	android:label
+		ADDED from AndroidManifest.xml:232:13
+	android:name
+		ADDED from AndroidManifest.xml:231:13
+intent-filter#android.intent.action.com.exam.theta2k15.etl+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:233:13
+action#android.intent.action.com.exam.theta2k15.etl
+ADDED from AndroidManifest.xml:234:17
+	android:name
+		ADDED from AndroidManifest.xml:234:25
+activity#com.exam.theta2k15.Eupxia
+ADDED from AndroidManifest.xml:239:9
+	android:label
+		ADDED from AndroidManifest.xml:241:13
+	android:name
+		ADDED from AndroidManifest.xml:240:13
+intent-filter#android.intent.action.com.exam.theta2k15.eupxia+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:242:13
+action#android.intent.action.com.exam.theta2k15.eupxia
+ADDED from AndroidManifest.xml:243:17
+	android:name
+		ADDED from AndroidManifest.xml:243:25
+activity#com.exam.theta2k15.Holgam
+ADDED from AndroidManifest.xml:248:9
+	android:label
+		ADDED from AndroidManifest.xml:250:13
+	android:name
+		ADDED from AndroidManifest.xml:249:13
+intent-filter#android.intent.action.com.exam.theta2k15.holgam+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:251:13
+action#android.intent.action.com.exam.theta2k15.holgam
+ADDED from AndroidManifest.xml:252:17
+	android:name
+		ADDED from AndroidManifest.xml:252:25
+activity#com.exam.theta2k15.Misimp
+ADDED from AndroidManifest.xml:257:9
+	android:label
+		ADDED from AndroidManifest.xml:259:13
+	android:name
+		ADDED from AndroidManifest.xml:258:13
+intent-filter#android.intent.action.com.exam.theta2k15.misimp+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:260:13
+action#android.intent.action.com.exam.theta2k15.misimp
+ADDED from AndroidManifest.xml:261:17
+	android:name
+		ADDED from AndroidManifest.xml:261:25
+activity#com.exam.theta2k15.Revcod
+ADDED from AndroidManifest.xml:266:9
+	android:label
+		ADDED from AndroidManifest.xml:268:13
+	android:name
+		ADDED from AndroidManifest.xml:267:13
+intent-filter#android.intent.action.com.exam.theta2k15.revcod+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:269:13
+action#android.intent.action.com.exam.theta2k15.revcod
+ADDED from AndroidManifest.xml:270:17
+	android:name
+		ADDED from AndroidManifest.xml:270:25
+activity#com.exam.theta2k15.Roblym
+ADDED from AndroidManifest.xml:275:9
+	android:label
+		ADDED from AndroidManifest.xml:277:13
+	android:name
+		ADDED from AndroidManifest.xml:276:13
+intent-filter#android.intent.action.com.exam.theta2k15.roblym+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:278:13
+action#android.intent.action.com.exam.theta2k15.roblym
+ADDED from AndroidManifest.xml:279:17
+	android:name
+		ADDED from AndroidManifest.xml:279:25
+activity#com.exam.theta2k15.Robsoc
+ADDED from AndroidManifest.xml:284:9
+	android:label
+		ADDED from AndroidManifest.xml:286:13
+	android:name
+		ADDED from AndroidManifest.xml:285:13
+intent-filter#android.intent.action.com.exam.theta2k15.robsoc+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:287:13
+action#android.intent.action.com.exam.theta2k15.robsoc
+ADDED from AndroidManifest.xml:288:17
+	android:name
+		ADDED from AndroidManifest.xml:288:25
+activity#com.exam.theta2k15.Sencli
+ADDED from AndroidManifest.xml:293:9
+	android:label
+		ADDED from AndroidManifest.xml:295:13
+	android:name
+		ADDED from AndroidManifest.xml:294:13
+intent-filter#android.intent.action.com.exam.theta2k15.sencli+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:296:13
+action#android.intent.action.com.exam.theta2k15.sencli
+ADDED from AndroidManifest.xml:297:17
+	android:name
+		ADDED from AndroidManifest.xml:297:25
+activity#com.exam.theta2k15.Tecast
+ADDED from AndroidManifest.xml:302:9
+	android:label
+		ADDED from AndroidManifest.xml:304:13
+	android:name
+		ADDED from AndroidManifest.xml:303:13
+intent-filter#android.intent.action.com.exam.theta2k15.tecast+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:305:13
+action#android.intent.action.com.exam.theta2k15.tecast
+ADDED from AndroidManifest.xml:306:17
+	android:name
+		ADDED from AndroidManifest.xml:306:25
+activity#com.exam.theta2k15.Tectre
+ADDED from AndroidManifest.xml:311:9
+	android:label
+		ADDED from AndroidManifest.xml:313:13
+	android:name
+		ADDED from AndroidManifest.xml:312:13
+intent-filter#android.intent.action.com.exam.theta2k15.tectre+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:314:13
+action#android.intent.action.com.exam.theta2k15.tectre
+ADDED from AndroidManifest.xml:315:17
+	android:name
+		ADDED from AndroidManifest.xml:315:25
+activity#com.exam.theta2k15.Zerbyt
+ADDED from AndroidManifest.xml:320:9
+	android:label
+		ADDED from AndroidManifest.xml:322:13
+	android:name
+		ADDED from AndroidManifest.xml:321:13
+intent-filter#android.intent.action.com.exam.theta2k15.zerbyt+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:323:13
+action#android.intent.action.com.exam.theta2k15.zerbyt
+ADDED from AndroidManifest.xml:324:17
+	android:name
+		ADDED from AndroidManifest.xml:324:25
+activity#com.exam.theta2k15.Tecfun
+ADDED from AndroidManifest.xml:329:9
+	android:label
+		ADDED from AndroidManifest.xml:331:13
+	android:name
+		ADDED from AndroidManifest.xml:330:13
+intent-filter#android.intent.action.com.exam.theta2k15.tecfun+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:332:13
+action#android.intent.action.com.exam.theta2k15.tecfun
+ADDED from AndroidManifest.xml:333:17
+	android:name
+		ADDED from AndroidManifest.xml:333:25

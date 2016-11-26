@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.exam.theta2k15"
+    android:versionCode="1"
+    android:versionName="1.0" >
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.exam.theta2k15.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.exam.theta2k15.Second"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.Second" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.exam.theta2k15.Informatica"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.Informatica" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+       	</activity>
+        <activity
+            android:name="com.exam.theta2k15.Informaticaconus"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.Informaticaconus" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+                <activity
+            android:name="com.exam.theta2k15.Electronica"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.Electronica" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+            
+		<activity
+            android:name="com.exam.theta2k15.Robotics"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.Robotics" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+                
+		<activity
+            android:name="com.exam.theta2k15.Optica"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.Optica" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+                
+        <activity
+            android:name="com.exam.theta2k15.Emulsion"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.Emulsion" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.exam.theta2k15.Biogenesis"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.Biogenesis" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        
+        <activity
+            android:name="com.exam.theta2k15.Equilibria"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.Equilibria" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>        
+                   
+        <activity
+            android:name="com.exam.theta2k15.Strategia"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.Strategia" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+                
+        <activity
+            android:name="com.exam.theta2k15.Mathematica"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.Mathematica" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+		<activity
+            android:name="com.exam.theta2k15.Pabbajja"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.Pabbajja" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+        
+		<activity
+            android:name="com.exam.theta2k15.Workshops"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.Workshops" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+        
+		<activity
+            android:name="com.exam.theta2k15.Uiux"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.Uiux" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+        
+		<activity
+            android:name="com.exam.theta2k15.Spvs"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.spvs" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+        <activity
+            android:name="com.exam.theta2k15.CandyTronics"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.candytronics" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+        <activity
+            android:name="com.exam.theta2k15.CrazyTronics"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.crazytronics" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>  
+        
+        <activity
+            android:name="com.exam.theta2k15.Contactus"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.contactus" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.exam.theta2k15.Assmat"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.assmat" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.exam.theta2k15.Chaele"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.chaele" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.exam.theta2k15.Eletes"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.eletes" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.exam.theta2k15.Etl"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.etl" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.exam.theta2k15.Eupxia"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.eupxia" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.exam.theta2k15.Holgam"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.holgam" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.exam.theta2k15.Misimp"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.misimp" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.exam.theta2k15.Revcod"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.revcod" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.exam.theta2k15.Roblym"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.roblym" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.exam.theta2k15.Robsoc"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.robsoc" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.exam.theta2k15.Sencli"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.sencli" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.exam.theta2k15.Tecast"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.tecast" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.exam.theta2k15.Tectre"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.tectre" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.exam.theta2k15.Zerbyt"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.zerbyt" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.exam.theta2k15.Tecfun"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.exam.theta2k15.tecfun" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

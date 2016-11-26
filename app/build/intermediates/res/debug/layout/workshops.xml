@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#66FD9C"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/workshops"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#ff0000" />
+
+    <Button
+        android:id="@+id/button11.1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/uiux"
+        android:background="@drawable/butshape" />
+
+    <Button
+        android:id="@+id/button11.2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/spvs"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/butshape" />
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:src="@drawable/exit"
+        android:background="@drawable/butshape" />
+
+</LinearLayout><!-- From: file:/D:/Softwares/App1/app/src/main/res/layout/workshops.xml -->

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Theta 2k15</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Start</string>
+    <string name="c">Clusters</string>
+    <string name="c1">Informatica</string>
+    <string name="c2">Electronica</string>
+    <string name="c3">Robotics</string>
+    <string name="c4">Optica</string>
+    <string name="c5">Emulsion</string>
+    <string name="c6">Biogenesis</string>
+    <string name="c7">Equilibria</string>
+    <string name="c8">Strategia</string>
+    <string name="c9">Mathematica</string>
+    <string name="c10">Pabbajja</string>
+    <string name="c11">Workshops</string>
+    <string name="website">Go to Theta2k15 website.</string>
+    <string name="contactus">Contact Us</string>
+    <string name="informaticaconus">ASHOK.G 9698607303\nRANAM REDDY ASHWINI 9003549541\nDHINESH \nANITHA.V 9655994530</string>
+    <string name="conus">P.Guru Sai Charan - 9003833880\nV.Chandra Sekaran - 8903606376</string>
+    <string name="workshops">Workshops</string>
+    <string name="uiux">UI/UX</string>
+    <string name="date">Date: </string>
+    <string name="exit">Exit?</string>
+    <string name="feeperhead">Registration fee per head: </string>
+    <string name="march131415">March 13,14,15.</string>
+    <string name="march2324">March 23,24.</string>
+    <string name="Rs1200">₹1200.</string>
+    <string name="Rs6000">₹6000.</string>
+    <string name="venue">Venue: </string>
+    <string name="sastrasrckmu">SASTRA-SRC,Kumbakonam.</string>
+    <string name="desc">Description: </string>
+    <string name="uiuxcdmatter">A three days workshop will give you a complete and innovative design experience to the participants.UI is to make the user’s interaction as simple and efficient as possible, in terms of accomplishing user goals.UX is how a person feels when interfacing with system.</string>
+    <string name="spvscdmatter">The workshop mainly focuses on the installation procedure, maintenance of solar photovoltaic systems. First day includes the lectures delivered by the resource persons from IIT Chennai and Anna University, Chennai. Second day of the workshop involves the hands on and demonstration of various solar powered devices. Please find the Agenda attached, for further details.</string>
+    <string name="agndspvs">Agenda of Solar Photovoltaic System:</string>
+    <string name="spvsday1">
+        1. Energy Scenario \n
+		2. Basics of Solar Photovoltaic \n
+		3. Terminologies and Standards Related to PV technology \n
+		4. SPV Orientation and Types of Solar Photovoltaic System \n
+		5. OFF Grid Solar System Components \n
+		6. ON Grid Solar System Components
+    </string>
+    <string name="spvsday2">
+        1. Design of OFF Grid Solar System \n
+		2. Design of ON Grid Solar System \n
+		3. Installation Procedures \n
+		4. SPV Power Plant Maintenance \n
+		5. Safety procedures for power plant installation \n
+		6. Automation and remote monitoring of solar power plant \n
+		7. Introduction to solar thermal \n
+		8. Scope for solar in India
+    </string>
+    <string name="spvspdmatter">
+        1. Solar lantern \n
+		2. Solar mobile charger \n
+		3. Solar street light system \n
+		4. Solar home light system \n
+		5. Solar inverter \n
+		6. Solar PV training Kit \n
+		7. Solar fan \n
+		8. Solar pump
+    </string>
+    <string name="spvsnotematter">
+        1.A solar lantern kit will be assembled by the students in the workshop and it can be taken back (One Kit per a team) \n
+		2.Participants will be provided a kit consisting, \n
+			\t(1)ID Cards \n
+			\t(2)Notepad and Stationery \n
+			\t(3)Participation Certificate \n
+		3.DD should be taken in favour of ‘THETA’ payable at Kumbakonam, from any nationalised bank. \n
+		4.Kindly mention names of the team members on the backside of DDs with pencil along with one contact number.
+    </string>
+    <string name="spvscd">K.Yaswanth Chowdary-8883337944 (kata.yaswanth1@gmail.com).\n
+        P.N.Aditya-9841606369 (aditya.pn369@gmail.com).\n
+        Viswaraju Sai Dinesh-9543337328 (viswarajudinesh@gmail.com).\n
+        M.Sai Bhargav-9159588045 (saibhargavm@gmail.com).</string>
+    <string name="yes">Yes</string>
+	<string name="uiuxrp">Resource People:</string>    
+	<string name="uiuxrpmatter">8 people from ‘The Photoshop User’s Group – Chennai An Adobe authorized User’s group.One of the largest and most active PSUGs in India</string>
+	<string name="contdet">Contact details:</string>
+	<string name="uiuxcd">S.Prashanth - 9442167405\n
+	    B.Akshya Kaveri - 9791594852\n
+	    T.Mirudhula – 8344719245\n
+	    Y.Sudharshan Reddy - 8015775269</string>
+	<string name="uiuxcontdet2"></string>
+	<string name="uiuxcontdet3"></string>
+	<string name="uiuxcontdet4"></string>
+	<string name="spvs">SOLAR PHOTOVOLTAIC SYSTEM</string>
+	<string name="team">Team:</string>
+	<string name="memb5">5 Members</string>
+	<string name="feeperteam">Regaistration fee per team:</string>
+	<string name="day1">Day 1:</string>
+	<string name="day2">Day 2:</string>
+	<string name="day3">Day 3:</string>
+	<string name="pd">Practical Demonstration:</string>
+	<string name="note">Note:</string>
+	<string name="cannybanny">Canny Banny</string>
+	<string name="atfyiaawf">A test for your intellectual ability along with fun</string>
+	<string name="round1">Round 1:</string>
+	<string name="round2">Round 2:</string>
+	<string name="round3">Round 3:</string>
+	<string name="round4">Round 4:</string>
+	<string name="organisers">Organisers</string>
+	<string name="coord">Co-ordinators</string>
+	<string name="canbanorg">S.Saraswathi 3rd BCOM B.\nP.Niketh Kumar 2nd BCOM A</string>
+	<string name="canbancd">7502355581</string>
+	<string name="canbancoord">M.Simran 2nd BCOM A.\n K.Abirami 2nd BCOM B.\n V.Balaji 1st BCOM A.</string>
+	<string name="rules">Rules:</string>
+	<string name="canbanr1">(Connexio)\nThe participants must connect the given images to form meaningful word.\n 20 Questions.</string>
+	<string name="canbanr2">(Minute to win)\n The participants must complete given task within a minute.\n Any task</string>
+	<string name="canbanr3">(Gyan-Chauper)\nTypical "Snake and Ladder" game which moves along with testing knowledge</string>
+	<string name="canbanrules">1.2 per team.\n 2.No Registration fee.\n 3.Judges decision is final.</string>
+	<string name="avantgarde">AVANT GARDE</string>
+	<string name="memb3">3 Members</string>
+	<string name="avagarr1">(Product identification and matching)\nThe participants have to identify the products with the help of clues and match the products</string>
+	<string name="avagarr2">(Hyper thinking)\nMultimedia and other challenges will be there related questions will be asked tc the narticipasts</string>
+	<string name="avagarr3">(Treasure Hunt)\nThe students have to reach the goal with the use of hidden clues.</string>
+	<string name="avagarorg">Sakthivel K.K.(III B.com "B")\nShambhavi.S(Il B.Com "A")</string>
+	<string name="avagarcoord">Venkatesh(I M.Com)\nKarthika.S(Il B.Com "B")\nSivagami.P(l B.Com "B")</string>
+	<string name="staffcoord">Staff Co-ordinators:</string>
+	<string name="frebrai">FREAKO-BRAINS</string>
+	<string name="memb2">2 Members</string>
+	<string name="frebrair1">(Maze)\nA Maze will be given the path has to be found out and the questions followed by it has to be answered</string>
+	<string name="frebrair2">(Find-Out)\nDifferent logos, taglines, ceo will be shown; the participant have to find it out.</string>
+	<string name="frebrair3">(Current Trends)\n1.Commerce oriented connection game.\n2.The question is based on the current affairs to the participants. Each team are asked 4 questions.</string>
+	<string name="frebraiorg">J.Premnath 3rd BCOM\nK.Lavanya 2nd BCOM.</string>
+	<string name="frebraicoord">R.Swaathi\nS.Hemalatha\nReja</string>
+	<string name="peainshe">PEARL IN THE SHELL</string>
+	<string name="peainsher1">(General Quiz)\nSimple questions related to current affairs, general concepts.</string>
+	<string name="peainsher2">(Photo puzzle)\nAny eminentpersons images or the logos (puzzled) will be given and the contestant should arrange it.</string>
+	<string name="peainsher3">(Ad-zap)\nContestant have to choose their own product and should prepare a catchy advertisement.</string>
+	<string name="peainsheorg">PADMAVATHY.N 3rd BCOM\nPRASHANTHI.B 3rd BCOM</string>
+	<string name="peainshecoord">1. DHARANI(lst M.Com.)\n2. Aswini (lst B.Com.)\n3. Anjana (2nd B.Com.)</string>
+	<string name="peainshecd">8580902490</string>
+	<string name="quiman">QUICKRMANIA</string>
+	<string name="quimandesc">
+In this event, various questions are displayed in the LED monitor.\n
+The questions comprises of logos and taglines of various products, brands, banks, companies, application, software, institutions, journals, telecommunication, automobiles, accessories , electrical etc. , also flags of familiar countries only.\n
+The participants have to send their answer to the given number via SMS the number that is displayed in monitor.\n
+The person whose answer received first will be given a chocolate along with printed alphabet attached with it. \n
+The participant have to frame a word with these alphabets. \n
+At the end of day three the participant who framed the long word with the collected alphabets will be the winner.\n
+The participants need not register their names. They can join at any time.</string>
+	<string name="cantro">CANDY TRONICS</string>
+	<string name="cantror1">(CROSS CHRONIC)\nIt’s a basic round with technical, aptitude, general questions and participants are allowed to identify the answers and they should arrange the answers either horizontally or vertically (like CROSS WORDS).</string>
+	<string name="cantror2">(TRICKY TAC)\nIt is an interesting round, similar to tic-tac, students of team should answer questions imposed to them and they are allowed to choose a box, if answered correctly and box is marked. Similar process is done for consecutive teams and the team which has consecutive 3 markings (either horizontally, vertically or diagonally) are eligible to third round.</string>
+	<string name="cantror3">(E-TINGE (colour))\nIt’s the most entertainment round, similar to candy crush game. Participant are allowed to choose a number displayed on board and underneath the numbers filled with different colours (like red, green, yellow), the team who answered correctly, the colour underneath the number is credited to their account. The particular team should collect 3 same colours to bang more points and select for next round. One more advantage in this round is that multi coloured questions are inserted so that particular team can collect two same colours and one multicolour for pairing</string>
+	<string name="cantror4">(CRAZY CHASE)\nThis is the final round where participants will have a suspense and it is revealed on the spot. In this round components of the circuit are hidden, and clues for the components are given if a particular team answered 4 questions, if they dint answer the 4 questions one additional question is given which carries the clues of the components. The first two teams are awarded and certified.</string>
+	<string name="cantroorg"> Y.GIRISH - 8144203235\nJ.SHIVA - 9500409518\nM.SHANMUKHA SAI - 9944638934</string>
+	<string name="cantrostaffcoord">1.	M.SUBHA\n2.	G.USHA\n3.	M.DEVI.</string>
+	<string name="cratro">CRAZY TRONICS</string>
+	<string name="cratror1">(TECHYTRICS IN A MINUTE)\nWords will be displayed in the form of pictures in each slide. Participants have to find the word in a minute. Maximum of 20 slides will be shown.</string>
+	<string name="cratror2">(A): MIME\nOne member will mime a technical word or a component and the other one have to guess the word correctly.\n(B): CIRCUITGEEK\nAn already assembled circuit (in bread board) is shown and participants are expected to draw it on a paper within fixed time.</string>
+	<string name="cratror3">This round is similar to business game. Participants has to answer the questions in order to move forward. Special task will be given at each move which add bonus points.</string>
+	<string name="cratror4">(CPL-CIRCUIT PREMIER LEAGUE)\nThis round is based on electronic funda. Auction of electronic components will be conducted. A specified electronic circuit has to be built with components purchased.</string>
+	<string name="cratrostaffcoord">NIRMAL RAJ\nS.RADHAKRISHNAN\nV.G.RAJENDRAN</string>
+	<string name="cratroorg">Jaye Tarun\nNirupama Krishnan\nNajma Parveen\nRavi Vaishnavi\nSomisetty Geethika</string>
+	<string name="assmat">ASSAULTMATH</string>
+    <string name="assmatr1"> MYSTYFIERS: \nParticipants have to answer questions logically</string>
+	<string name="assmatr2">CROSS SUDOKU</string>
+	<string name="assmatr3">Finding Nemo\nThe participants need to reach a specific destination by overcoming the hurdles. </string>
+	<string name="shapedsecrets">SHAPED SECRETS:</string>
+    <string name="shapedsecretsmattr">The participants have to find out certain hidden-objects using the clues given. </string>
+    <string name="holgam">HOLMES IN GAMES</string>
+    <string name="holgamr1">LOGO MASTERS.</string>
+    <string name="holgamr2">CRIME BUSTERS:\nA small task of a crime scene will be given to the participants and they need to find the culprit. </string>
+    <string name="holgamr3">CASE FILE:\nThe participants have to find the required news with the given hint and pick the relevant newspaper. </string>
+    <string name="holgamr4">CYBER CODE:\nThe participants need to find the treasure by the way of cracking the code.</string>
+    <string name="sencli">SENSE CLICKERS</string>
+    <string name="senclir1">PIK CLUE:\nThe participants have to find the answer using the picture clues given.</string>
+    <string name="senclir2"> EN DE CODE:\nThe participants have to find the encrypted code using numerical clues. </string>
+    <string name="senclir3">AFFERENT:\nThe participants have to observe the audio- visual played and answer the questions.</string>
+    <string name="senclir4">ANI MAGIC:\nThe participants have to draw some geometrical pictures based on the instructions given. </string>
+    <string name="zerbyt">ZERO BYTES</string>
+    <string name="zerbytr1">MATH IN FUN:\nThe participants have to fill the boxes with operands or operators. </string>
+    <string name="zerbytr2">FLOW MAKER:\nThe participants have to connect the corresponding numbers without intersecting each other in the boxes. </string>
+    <string name="zerbytr3">CRACK THE CODE:\nThe participants have to find the password, using the clues in the laptop. </string>
+    <string name="zerbytr4">OFFLINE:\nThe participants have to answer the given question within the stipulated time. </string>
+    <string name="tecast">TECHASTRA</string>
+    <string name="tecastr1">Code-word hunt:\nMatrix and Code reassembling-A simple c program will be in a jumbled format. Participants will have to rearrange it.</string>
+    <string name="tecastr2"> Pick a Pic:\nFinding Differences and Common from Pictures.\nCiph Koding:\nA word or a number will be encoded into another form. Similarly participants will have Encode the given word or phrase and an Easy Sudoku will be given and participants will have to solve it.</string>
+    <string name="tecastr4">Crackerjack:\nThe participants have to crack the password of laptop based on the clues and then have to answer the General Questions and Brain </string>
+    <string name="misimp">MISSION IMPOSSIBLE</string>
+    <string name="misimpr1"> Why, What and How? -Participants will have to give meaning to the product name.</string>
+    <string name="misimpr2"> It is an inventor round. Display a clue and identify person. The clues will be related to that person and then finding old system.</string>
+    <string name="misimpr3">Totally 12 topics and 60 questions in this round</string>
+    <string name="misimpr4">Temple Run:\nIt is a Treasure Hunt round.</string>
+    <string name="robsoc">ROBO SOCCER</string>
+    <string name="robsum">ROBO SUMO</string>
+    <string name="robsocmatter">The objective is to design a manual robot and which can compete on an arena specially designed for robotic soccer match. The event is aimed at testing the Flipping, Kicking, maneuvering skills and the control of the robot. The event mainly consists of ROUNDS 1, 2 and 3.\nFirst round will be a qualifier round\nThe next level will be an elimination round!\nFinal One will be a challenging one!</string>
+    <string name="robsummatter"></string>
+    <string name="roblym">ROBOLYMPICS</string>
+    <string name="roblymmatter">The way you enter, the way you proceed, the way you reveal your speed to others beings here at the enthralling event of “robo(o)lympics”. It provides you a track for the open your enthusiasm for the rush to win with your bot’s . The fast speeds, tight turns, and exciting collisions in our hot wheels on track takes place.\nFirst round will be a qualifier round\nThe next level will be an elimination round.This round is a challenge to the participants bot and motor specifications.\nIn final round track will be revealed on spot and it’s a challenge for participants mind to crack the track. SOME RULES AND REGULATIONS WILL BE </string>
+    <string name="eupxia">EUPRAXIA 15</string>
+    <string name="eupxiar1"> IN IT TO WIN IT:\n This round is used to check your skill as well as how much fast your brain is working. </string>
+    <string name="eupxiar2">DO IT YOURSELF:\nIt is the round to think practical .</string>
+    <string name="eupxiar3">JAM(JUST A MINUTE):\nThe concept will be given to you and you have to explain the concept with suitable analogy and Carefully watch the process and reciprocate about the process in your own words. </string>
+    <string name="eupxiar4">CLASH THE THOUGHT:\nSelf intro using technical words and Circuit design using auction.</string>
+    <string name="chaele">CHASSE ‘ELECTRIQUE</string>
+    <string name="chaeler1">A screening round It tests the participants’ basic knowledge and command over one’s fundamentals.</string>
+    <string name="chaeler2">To promote interest in Electrical Engineering.Practical knowledge will be tested through the event. This round also comprises of fun part.</string>
+    <string name="chaeler3">Depends on your technical brilliance and sheer luck. This is a game of boxes.</string>
+    <string name="chaeler4">Power Point Presentation on a topic related to electrical engineering. !</string>
+    <string name="etl">ETL-"ELECTRONICS THETA LEAGUE"</string>
+    <string name="etlr1">This round contains two sets of questions: Set I contains both technical and general questions. Set II contains questions which can be answered by clues from set I answers(instructions will be given).</string>
+    <string name="etlr2">Simple Circuit diagrams with some minute errors will be given and the participants have to correct the errors and should be redrawn.</string>
+    <string name="etlr3">Each team can select the topics by rotating the wheel which contains the above topics and question from the same will be asked. You may also use life lines by losing some points</string>
+    <string name="eletes">ELECTROTEST</string>
+    <string name="eletesr1">This roundconsists 30 questions. Questions include all basic concepts of electronics, mathematics, physics, chemistry, and subjects so far you learned.</string>
+    <string name="eletesr2">This consists of brain teasers and questions. A team can challenge other team to answer a question and scores are awarded based on this.</string>
+    <string name="eletesr3">Participants are givenwitha complex maze.Your task is to track the correct path by answering the questions which finally leads to the crux. </string>
+    <string name="tecfun">TECHNOFUN</string>
+    <string name="tecfunr1">ELECTRIC BAZAR:\nSlides of logos, electrical components, scientists will be shown. </string>
+    <string name="tecfunr2">HIDDEN PICTURE:\nA 3*3 block consists of 9 cells and picture hidden inside it. Simple questions for each cell to open it and at last bumper question about the picture.</string>
+    <string name="tecfunr3">D’SOLVE2:\nDebugging the circuit</string>
+    <string name="tecfunr4">SNAKE AND LADDER:\nQuestion based playing</string>
+    <string name="tectre">TECHNO TRENDZ</string>
+    <string name="tectrematter">Science is not just what you tried to memorize from text books. This event will improve your picture solving ability, listening and observing abilities and Presentation Skills.</string>
+    <string name="tectrer1">First it will have questions from the fields of computer science. The interesting part of this round is , it can be cracked through online before the days of Fest.</string>
+    <string name="tectrer2">Then the next tasks will be picture puzzles followed by questions related to a different video and audio played simultaneously. </string>
+    <string name="tectrer3">Last team of 2 members have to give for and against about a topic given on spot for 3 min . The best will capture the winner flag</string>
+    <string name="revcod">REVERSE CODING</string>
+    <string name="revcodmatter">Programming has enabled humans to make machines , do enormous tasks at their whims. Define your destiny with 0s and 1s.Code your way through complications.This is a coding event which requires basic knowledge of a programming language and basic encryption skills.</string>
+    <string name="revcodr1">First round is of basic programming and encryption questions.</string>
+    <string name="revcodr2">In the next subsequent levels they will be given executable files followed by debugging programs(compile time and run time) and fun programs.</string>
+    <string name="revcodr3">Last the coder who cracks 3 interactive programs will stand on the top step.Each question in each round will vary in marks based on code.</string>
+    <string name="codhun">CODE HUNT</string>
+    <string name="codhunmatter">All the techies and coding enthusiasts register here to check how ample is your coding abilities.</string>
+    <string name="codhunr1">First round will contain simple Questions based on c,c++ and logic.</string>
+    <string name="codhunr2">In next rounds problems will be given.\nParticipants should write the coding very complex so that no one can understand the program until they execute followed by clearing the syntactical and logical errors for the given problems.</string>
+    <string name="codhunr3">In Final round three programming challenges are given to the participants based on real time problems.\nPARTICIPATION IS TWO PER TEAM !</string>
+    <string name="fesope">FEST O OPEN</string>
+    <string name="fesopematter">FEST-O-OPEN is the single best destination for all users and developers of free and open source Software (FOSS). Participating in this event will give basic knowledge about open source for beginners.</string>
+    <string name="fesoper1">First round will be of software logos. </string>
+    <string name="fesoper2">Next round will have multiple choice questions about open source softwares.</string>
+    <string name="fesoper3">In final round, participants have to present open source softwares, which include distribtions/operating systems like ubuntu etc. Participants per team is TWO!</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<string name="no">No</string>
+    
+
+</resources>
